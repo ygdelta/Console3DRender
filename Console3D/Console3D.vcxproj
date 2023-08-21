@@ -129,9 +129,10 @@
   <ItemGroup>
     <ClCompile Include="..\3DEngine\3DEngine.cpp" />
     <ClCompile Include="..\3DEngine\ConsoleRender.cpp" />
+    <ClCompile Include="ConsoleRender.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\3DEngine\ConsoleRender.h" />
+    <ClInclude Include="ConsoleRender.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
