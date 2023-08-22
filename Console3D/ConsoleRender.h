@@ -19,5 +19,5 @@ public:
 	//virtual bool OnUserUpdate(float elapsedTime) = 0;
 	//virtual bool OnUserDestroy();
 	int ConstructConsole(int width, int height, int fontWidth, int fontHeight);
-	void Start();
+	//void Start();
 };

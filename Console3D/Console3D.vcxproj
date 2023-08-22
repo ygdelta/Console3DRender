@@ -127,9 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\3DEngine\3DEngine.cpp" />
-    <ClCompile Include="..\3DEngine\ConsoleRender.cpp" />
     <ClCompile Include="ConsoleRender.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ConsoleRender.h" />
